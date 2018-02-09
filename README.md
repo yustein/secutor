@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages Secutor
+[Source](http://secutor.ch "Permalink to Protect your emails even from governments")
 
-You can use the [editor on GitHub](https://github.com/yustein/Secutor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Protect your emails even from governments
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### RSA Asymmetrical 2048-bit Encryption
 
-### Markdown
+![Secutor][1]Secutor Certificate Wizard adds powerful email encryption to an iPhone,  iPad® or iPod touch® without affecting the devices' inherent useability. It is an elegant solution  and it makes no change to the way you use your phone or tablet.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In four simple steps you will create a private/public key combination that will encrypt your email messages using 2048-bit encryption, which is  currently impossible and unlikely to be deciphered for a long while2.
 
-```markdown
-Syntax highlighted code block
+Secutor uses the industry standard S/MIME method, which is supported by all major email clients  and on all main platforms.
 
-# Header 1
-## Header 2
-### Header 3
+1as of 28 October 2013 ♦ 2[not before 2030][2]
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yustein/Secutor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[1]: http://secutor.ch/img/secutor-icon-48%402x.png
+[2]: http://en.wikipedia.org/wiki/Key_size#Asymmetric_algorithm_key_lengths
